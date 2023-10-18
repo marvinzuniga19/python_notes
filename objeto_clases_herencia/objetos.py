@@ -1,4 +1,4 @@
-# Clases: 
+# Clases: es un bloque de código que define un tipo de objeto, así como los métodos y atributos que estarán asociados con ese tipo de objeto.
 
 class Usuario: # clases primer letra mayuscula
     nombre = 'Marvin'
